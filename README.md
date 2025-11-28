@@ -54,7 +54,7 @@ void loop() {
 }
 ```
 ## CIRCUIT DIAGRAM:
-![Relay_exp2_page-0001 (3)](https://github.com/user-attachments/assets/67dd00ee-2b2e-4828-a0e0-43f43674c362)
+![expt2piotpg_page-0001](https://github.com/user-attachments/assets/5bc97c39-5063-456e-90be-e416b6e39646)
 
 
 ## OUTPUT:
