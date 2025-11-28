@@ -59,12 +59,12 @@ void loop() {
 
 ## OUTPUT:
 ## ON
-<img width="667" height="467" alt="image" src="https://github.com/user-attachments/assets/0c97da23-2802-42f2-bac6-10cc47408145" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/8da3b7b7-f531-4964-ab85-0cf9cabc9bfb" />
 
 
 
 ## OFF
-<img width="664" height="464" alt="Screenshot 2025-09-16 113954" src="https://github.com/user-attachments/assets/a120a706-7afd-4803-9246-3f73401cc336" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/74fdc580-db9b-4522-859b-bcc2236a5910" />
 
 
 
